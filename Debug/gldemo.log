@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  texture_loader.cpp
+  shader_setup.cpp
+  gldemo.cpp
+c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(68): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(73): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(74): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(78): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(220): warning C4244: '+=' : conversion from 'CoreStructures::gu_seconds' to 'float', possible loss of data
+c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(222): warning C4305: 'initializing' : truncation from 'double' to 'float'
+c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(224): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(235): warning C4244: 'argument' : conversion from 'double' to 'GLclampf', possible loss of data
+c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(239): warning C4244: 'argument' : conversion from 'double' to 'GLclampf', possible loss of data
+c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(309): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(338): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+  Generating Code...
+  gldemo.vcxproj -> C:\Users\Maciej\Documents\Visual Studio 2015\Projects\BearSimulator\Debug\gldemo.exe
