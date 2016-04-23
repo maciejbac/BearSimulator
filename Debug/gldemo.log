@@ -1,7 +1,4 @@
-﻿  stdafx.cpp
-  texture_loader.cpp
-  shader_setup.cpp
-  gldemo.cpp
+﻿  gldemo.cpp
 c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(68): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
 c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(73): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
 c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(74): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
@@ -13,12 +10,4 @@ c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(2
 c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(239): warning C4244: 'argument' : conversion from 'double' to 'GLclampf', possible loss of data
 c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(309): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
 c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(338): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
-  Generating Code...
-CoreStructures.lib(GUClock.obj) : warning LNK4204: 'C:\Users\Maciej\Documents\Visual Studio 2015\Projects\BearSimulator\Debug\vc120.pdb' is missing debugging information for referencing module; linking object as if no debug info
-CoreStructures.lib(GUObject.obj) : warning LNK4204: 'C:\Users\Maciej\Documents\Visual Studio 2015\Projects\BearSimulator\Debug\vc120.pdb' is missing debugging information for referencing module; linking object as if no debug info
-CoreStructures.lib(GUPivotCamera.obj) : warning LNK4204: 'C:\Users\Maciej\Documents\Visual Studio 2015\Projects\BearSimulator\Debug\vc120.pdb' is missing debugging information for referencing module; linking object as if no debug info
-CoreStructures.lib(GUMatrix4.obj) : warning LNK4204: 'C:\Users\Maciej\Documents\Visual Studio 2015\Projects\BearSimulator\Debug\vc120.pdb' is missing debugging information for referencing module; linking object as if no debug info
-CoreStructures.lib(GUMemory.obj) : warning LNK4204: 'C:\Users\Maciej\Documents\Visual Studio 2015\Projects\BearSimulator\Debug\vc120.pdb' is missing debugging information for referencing module; linking object as if no debug info
-CoreStructures.lib(GUVector4.obj) : warning LNK4204: 'C:\Users\Maciej\Documents\Visual Studio 2015\Projects\BearSimulator\Debug\vc120.pdb' is missing debugging information for referencing module; linking object as if no debug info
-CoreStructures.lib(GUViewFrustum.obj) : warning LNK4204: 'C:\Users\Maciej\Documents\Visual Studio 2015\Projects\BearSimulator\Debug\vc120.pdb' is missing debugging information for referencing module; linking object as if no debug info
   gldemo.vcxproj -> C:\Users\Maciej\Documents\Visual Studio 2015\Projects\BearSimulator\Debug\gldemo.exe
