@@ -1,4 +1,5 @@
-﻿  gldemo.cpp
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (gldemo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  gldemo.cpp
 c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(68): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
 c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(73): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
 c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(74): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
@@ -10,4 +11,4 @@ c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(2
 c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(239): warning C4244: 'argument' : conversion from 'double' to 'GLclampf', possible loss of data
 c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(309): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
 c:\users\maciej\documents\visual studio 2015\projects\bearsimulator\gldemo.cpp(338): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
-  gldemo.vcxproj -> C:\Users\Maciej\Documents\Visual Studio 2015\Projects\BearSimulator\Debug\gldemo.exe
+  gldemo.vcxproj -> C:\Users\Maciej\Documents\Visual Studio 2015\Projects\BearSimulator\Debug\BearSim.exe
